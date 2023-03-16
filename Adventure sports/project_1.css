@@ -1,0 +1,77 @@
+*{
+    padding:0;
+    box-sizing:border-box;
+    margin:0;
+    overflow-x:hidden;
+    
+}
+header{
+    background-color:rgb(45, 45, 45);
+color:white;
+font-weight:bolder;
+font-size: 5rem;
+padding:5rem 10rem;
+font-family: "poppins", "sans-serif";
+
+}
+.img1{
+    background-image: url(sport-1.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    
+    background-position: center;
+    min-height:500px;
+    position:relative;
+    
+}
+.img2{
+    background-image: url(sport-2.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    background-position: center;
+    min-height:500px;
+    position:relative;
+    
+}
+.img3{
+    background-image: url(sport-3.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+    min-height:500px;
+    position:relative;
+    
+   
+}
+ .id1,.id2,.id3{
+    position:absolute;
+    left:30%;
+    top:30%;
+    background-color: white;
+    
+    text-align:center;
+    padding: 0.5rem 2.5rem;
+    font-size: 3.5rem;
+    color: black;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "poppins", "sans-serif"
+    
+} 
+
+main{
+    display:flex;
+    flex-wrap:wrap;
+   
+   
+}
+p{
+background-color:rgb(45, 45, 45);
+color:white;
+min-height:200px;
+font-size: 1.5rem;
+padding:5rem 10rem;
+font-family: "poppins", "sans-serif";
+
+}
+
