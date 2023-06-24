@@ -15,7 +15,7 @@ font-family: "poppins", "sans-serif";
 
 }
 .img1{
-    background-image: url(sport-1.jpg);
+    background-image: url(images/sport-1.jpg);
     background-attachment: fixed;
     background-size:cover;
     
@@ -25,7 +25,7 @@ font-family: "poppins", "sans-serif";
     
 }
 .img2{
-    background-image: url(sport-2.jpg);
+    background-image: url(images/sport-2.jpg);
     background-attachment:fixed;
     background-size:cover;
     background-position: center;
@@ -34,7 +34,7 @@ font-family: "poppins", "sans-serif";
     
 }
 .img3{
-    background-image: url(sport-3.jpg);
+    background-image: url(images/sport-3.jpg);
     background-attachment: fixed;
     background-size:cover;
     background-position: center;
